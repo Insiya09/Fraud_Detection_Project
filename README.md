@@ -1,5 +1,6 @@
 #🕵️‍♀️ Fraud Detection in Online Transactions
 This project focuses on detecting fraudulent transactions in mobile-based payment systems using machine learning models. It aims to help financial institutions reduce losses and secure customer transactions by accurately predicting fraudulent activity.
+
 #📌 Problem Statement
 Online payment fraud is a major issue in the financial industry, causing significant financial losses. The objective of this project is to build a machine learning model that can distinguish between genuine and fraudulent transactions based on transaction patterns and user behavior.
 #Key Objectives
@@ -14,7 +15,8 @@ Evaluate model performance using key metrics
 Analyze financial impact of model decisions
 
 Provide actionable business insights
-#🗃️ Dataset
+
+🗃️ Dataset
 The dataset contains simulated mobile transaction records with the following key features:
 
 step – Hour of the transaction
@@ -28,7 +30,8 @@ oldbalanceOrg, newbalanceOrig – Sender's balance before and after transaction
 oldbalanceDest, newbalanceDest – Receiver's balance before and after transaction
 
 isFraud – Flag indicating whether a transaction is fraudulent
-#🔍 Exploratory Data Analysis (EDA)
+
+🔍 Exploratory Data Analysis (EDA)
 Distribution of transaction types
 
 Amount trends across transaction types
