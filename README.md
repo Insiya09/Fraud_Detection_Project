@@ -95,17 +95,23 @@ XGBoost
 Jupyter Notebook
 
 📦 Project Structure
-bash
-Copy
-Edit
+
 fraud-detection/
+
 │
+
 ├── data/                # Dataset files
+
 ├── notebooks/           # EDA and model building notebooks
+
 ├── visuals/             # Plots and graphs
+
 ├── model/               # Saved models (pickle files)
+
 ├── utils/               # Helper functions
+
 ├── README.md            # Project overview
+
 └── fraud_detection.ipynb # Main notebook
 
 
